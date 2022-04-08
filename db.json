@@ -22,7 +22,7 @@
 		{ "id": 5, "data_movimento": "2022/04/01", "tipo": "pagamento", "valor":   30000.00, "historico": "pagamento imposto sindicato comercio Campos/RJ", "disponibilidade": 1 }
 	],
 	"sobrou": [
-	}
+	]
 }
 
 
